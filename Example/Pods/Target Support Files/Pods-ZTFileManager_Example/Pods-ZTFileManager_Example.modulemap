@@ -1,0 +1,6 @@
+framework module Pods_ZTFileManager_Example {
+  umbrella header "Pods-ZTFileManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ZTFileManager {
+  umbrella header "ZTFileManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZTFileManager (0.1.0)
+
+DEPENDENCIES:
+  - ZTFileManager (from `../`)
+
+EXTERNAL SOURCES:
+  ZTFileManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTFileManager: fb072e5a7871f0e68c8f235cacb97bc867131408
+
+PODFILE CHECKSUM: 5bbcff3124d54da32ea1d2958a01658266f030d8
+
+COCOAPODS: 1.10.1
