@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZTFileManager'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of ZTFileManager.'
 
   s.homepage         = 'https://github.com/CherishSmile/ZTFileManager'
@@ -22,5 +22,4 @@ Pod::Spec.new do |s|
   }
   s.source_files = 'ZTFileManager/ZTFileManager.framework/Headers/*.{h}'
   s.vendored_frameworks = 'ZTFileManager/ZTFileManager.framework'
-  s.public_header_files = 'ZTFileManager/ZTFileManager.framework/Headers/*.{h}'
 end
